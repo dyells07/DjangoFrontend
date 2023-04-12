@@ -1,0 +1,1 @@
+this is the test and this is static file
